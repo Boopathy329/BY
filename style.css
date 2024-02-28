@@ -1,0 +1,38 @@
+.one{
+    color: blue;
+}
+
+#two{
+    color: rgba(159, 20, 251, 0.864);
+}
+
+*{
+    color:black;
+}
+
+
+table,tr,td{
+    border: 2px solid; 
+    border-collapse:collapse;
+    border-style:double;
+    border-spacing: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.box{
+    background-color:black;
+    color: aliceblue;
+    width: auto;
+    height: auto;
+
+    margin-top: 150px;
+    margin-left: 150px;
+    margin: auto;
+    padding:20px;
+    border-style: groove;
+    border-color: brown;
+    border-width: 10px;
+    border height: 10px;
+    background-image:url(https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630);
+}

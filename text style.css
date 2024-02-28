@@ -1,0 +1,70 @@
+.box{
+    height: auto;
+    width: 500px;
+    font-size: 40px;
+     color:black;
+    margin: auto;
+    padding: 50px;
+    border: 2px;
+    border-color: blue;
+    border:solid;
+    box-sizing:content-box;
+    
+    text-align: center;
+
+}
+
+.para{
+    text-align: center;
+    color:blue;
+    text-decoration:none;
+    
+}
+
+.box1{
+    text-align: center;
+    color: white;
+    text-shadow:5px 5px 1px rgb(145, 144, 144)   
+       
+}
+
+.para1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-style:sans-serif;
+    font-size: 2rem;
+    font-weight:lighter;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+
+.parent1{
+    width: 500px;
+    height:auto;
+    position: relative;
+    border: 5px dotted gray;
+    
+}
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    position: sticky;
+    background-color: blueviolet;
+    top: 0;
+    
+}
+
+
+.ol{
+    list-style: lower-greek;
+    list-style-position: inside;
+    image-rendering: url(https://media.istockphoto.com/id/1094780808/vector/approval-symbol-check-mark-in-a-circle-drawn-by-hand-vector-green-sign-ok-approval-or.jpg?s=612x612&w=0&k=20&c=0mlB50r769kHmLkVcq_HpdNFGdHIA_Cu_tPqN4IKZbc=);
+
+}
+
+
+
