@@ -66,5 +66,20 @@
 
 }
 
+#h1::first-letter {
+        font-size: 100px;
+        color: red;
+        background-color: blueviolet;
+    
+    }
+
+a:visited{
+        color: brown;
+    }
+
+    ::marker{
+        color:greenyellow;
+    }
+
 
 
